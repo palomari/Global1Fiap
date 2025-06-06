@@ -60,8 +60,6 @@ Desenvolver um **painel de controle desktop** que permita:
 - Registro de alertas com logs automáticos
 - Acesso restrito por login
 - Interface simples via terminal
-
-### Não Funcionais
 - Estrutura modular, com herança e encapsulamento
 - Código limpo e bem indentado
 - Erros tratados adequadamente (entradas inválidas, campos vazios)
